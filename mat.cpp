@@ -14,7 +14,7 @@ namespace ariel{
 		int q = 1;
 		int t = 0;
 	//create the shatihch with 0/1
-	for(int  k = 0; k < 3; k++){
+	for(int  k = 0; k < y; k++){
 		for(int i = k; i < y-k; i++){
 			for(int j = k ; j < x-k ; j++){
 				if ((i == k) || (i == y-1-k)){
