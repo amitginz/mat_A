@@ -2,7 +2,6 @@
 using namespace std;
 #include <cstdio>
 #include <string>
-#include <vector>
 #include "mat.hpp"
 namespace ariel{
 	string mat(int x, int y, char z,char w){
